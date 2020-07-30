@@ -24,4 +24,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything interesting
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
