@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🌱 I’m currently learning **Software Engineering** in **Nanjing University**
+- 📫 How to reach me: 18183026@smail.nju.edu.cn
+- ⚡ Fun fact: I LOVE CATS!!! and Americano
