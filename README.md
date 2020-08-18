@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 13 mins   █████████████████▒░░░░░░░   69.37 % 
-GAS        1 hr 19 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.87 % 
-C          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
-Java       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown   4 hrs 5 mins    ███████████████████████▓░   94.09 % 
+Java       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
