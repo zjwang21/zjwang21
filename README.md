@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 6 mins    ████████████████████████▓   99.04 % 
-Java       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown     3 hrs 58 mins   ████████████████████████▒   97.20 % 
+C++          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Java         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 <!--END_SECTION:waka-->
