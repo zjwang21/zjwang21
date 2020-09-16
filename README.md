@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     6 hrs 42 mins   █████████████▒░░░░░░░░░░░   53.65 % 
-Scala        4 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   39.17 % 
-HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Markdown     6 hrs 12 mins   █████████████░░░░░░░░░░░░   51.89 % 
+Scala        4 hrs 53 mins   ██████████▒░░░░░░░░░░░░░░   40.96 % 
+HTML         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
