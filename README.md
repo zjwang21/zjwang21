@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE CATS!!! and Americano
 - 💬 Ask me about everything interesting
 
+谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊
+
 <!--START_SECTION:waka-->
 ```text
 Markdown   10 hrs 49 mins  █████████████████████░░░░   83.70 % 
