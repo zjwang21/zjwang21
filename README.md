@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
-- 🌱 I’m currently learning Python, JAVA and Algorithm
+- 🌱 I’m currently learning Python, JAVA and Computer Vision
 - 📫 How to reach me: 18183026@smail.nju.edu.cn
-- ⚡ Fun fact: I LOVE CATS!!! and Americano
+- ⚡ Fun fact: I LOVE Math! And Cats!!!
 - 💬 Ask me about everything interesting
 
 谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊
