@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   10 hrs 24 mins  ███████████████████▓░░░░░   78.65 % 
-Python     2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.98 % 
-Text       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Other      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Scala      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Markdown   7 hrs 37 mins   █████████████████░░░░░░░░   68.11 % 
+Python     2 hrs 18 mins   █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
+TeX        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Text       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
