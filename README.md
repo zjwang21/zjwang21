@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE Math! And Cats!!!
 - 💬 Ask me about everything interesting
 
-谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊
+谁终将声震人间，必长久深自缄默
+
+谁终将点燃闪电，必长久如云漂泊
 
 <!--START_SECTION:waka-->
 ```text
