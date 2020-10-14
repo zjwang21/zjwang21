@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   4 hrs 49 mins   █████████░░░░░░░░░░░░░░░░   35.48 % 
-NASM       4 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   31.29 % 
-XML        2 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Python     1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Other      46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+NASM       8 hrs 32 mins   ██████████▓░░░░░░░░░░░░░░   43.09 % 
+Markdown   4 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+C          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+XML        2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Bash       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
 ```
 <!--END_SECTION:waka-->
