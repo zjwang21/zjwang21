@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-NASM       20 hrs 1 min    ██████████████▓░░░░░░░░░░   58.92 % 
-Markdown   3 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Java       2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-C          2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-XML        2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+NASM       19 hrs 31 mins  ███████████████▓░░░░░░░░░   62.13 % 
+Java       2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+C          2 hrs 37 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown   2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+XML        1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 <!--END_SECTION:waka-->
