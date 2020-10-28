@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python     7 hrs 49 mins   ███████████░░░░░░░░░░░░░░   44.30 % 
-C++        3 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Java       2 hrs 39 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Markdown   1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-NASM       49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Python     6 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   47.22 % 
+C++        3 hrs 33 mins   ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Markdown   1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+NASM       49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Java       46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 <!--END_SECTION:waka-->
