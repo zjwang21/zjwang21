@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++          1 hr 54 mins    ███████████▒░░░░░░░░░░░░░   45.04 % 
-Markdown     1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.73 % 
-Python       28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-XML          20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Git Config   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown     2 hrs 6 mins    █████████████████▒░░░░░░░   69.20 % 
+XML          20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Git Config   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Python       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Java         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 <!--END_SECTION:waka-->
