@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     4 hrs 3 mins    ████████████████░░░░░░░░░   63.81 % 
-Java         1 hr 1 min      ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-XML          21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Properties   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Markdown     4 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.87 % 
+Java         2 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.47 % 
+XML          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Properties   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Git Config   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 <!--END_SECTION:waka-->
