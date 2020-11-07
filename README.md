@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     4 hrs 36 mins   ██████████████▒░░░░░░░░░░   57.82 % 
-Java         2 hrs 1 min     ██████▒░░░░░░░░░░░░░░░░░░   25.36 % 
-XML          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Properties   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Python       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Markdown     4 hrs 47 mins   ████████████████░░░░░░░░░   64.39 % 
+Java         1 hr 53 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.48 % 
+Properties   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+CSS          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 <!--END_SECTION:waka-->
