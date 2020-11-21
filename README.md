@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
 - 🌱 I’m currently learning Python, JAVA and Computer Vision
-- 📫 How to reach me: 18183026@smail.nju.edu.cn
+- 📫 How to reach me: 181830266@smail.nju.edu.cn
 - ⚡ Fun fact: I LOVE Math! And Cats!!!
 - 💬 Ask me about everything interesting
 
