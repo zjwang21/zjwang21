@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C             9 hrs 6 mins    ███████████████████░░░░░░   75.97 % 
-Objective-C   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-NASM          30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-Markdown      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Git Config    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+C             10 hrs 8 mins   ██████████████████▒░░░░░░   73.52 % 
+Objective-C   1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+NASM          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Markdown      33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
