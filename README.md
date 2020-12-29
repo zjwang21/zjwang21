@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C             10 hrs 8 mins   ███████████████████░░░░░░   75.67 % 
-Objective-C   1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-NASM          37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Other         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Markdown      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+C             10 hrs 8 mins   █████████████████▓░░░░░░░   70.32 % 
+Objective-C   1 hr 33 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Markdown      57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+NASM          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Other         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
