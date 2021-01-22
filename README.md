@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python       5 mins          ██████████████▒░░░░░░░░░░   57.49 % 
-HTML         1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Bash         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Java         4 hrs 38 mins   █████████████████████▒░░░   85.27 % 
+Properties   19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+XML          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Python       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 ```
 <!--END_SECTION:waka-->
