@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C++        46 mins         ████████████████▒░░░░░░░░   65.94 % 
-Bash       19 mins         ███████░░░░░░░░░░░░░░░░░░   28.07 % 
-Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Bash       19 mins         ████████████████████▒░░░░   81.98 % 
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 <!--END_SECTION:waka-->
