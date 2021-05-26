@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything interesting
 - 😄 You can see me in https://nil-zhuang.github.io/
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=TeX&layout=compact&theme=dark
+
 谁终将声震人间，必长久深自缄默
 
 谁终将点燃闪电，必长久如云漂泊
