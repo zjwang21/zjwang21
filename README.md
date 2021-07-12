@@ -32,9 +32,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 57 mins    ███████████████████▒░░░░░   76.90 % 
-C++      16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Text     15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
