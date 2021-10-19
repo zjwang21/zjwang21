@@ -32,9 +32,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   13 mins         ████████████▓░░░░░░░░░░░░   50.69 % 
-C++        7 mins          ███████▒░░░░░░░░░░░░░░░░░   28.81 % 
-SQL        3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-JSON       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Markdown   13 mins         █████████████████▓░░░░░░░   71.20 % 
+SQL        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+JSON       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 ```
 <!--END_SECTION:waka-->
