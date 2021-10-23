@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   13 mins         █████████████████▓░░░░░░░   71.20 % 
-SQL        3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-JSON       2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
