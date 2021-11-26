@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python       52 mins         ███████████████░░░░░░░░░░   60.03 % 
-XML          32 mins         █████████▒░░░░░░░░░░░░░░░   37.39 % 
-SQL          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+XML          32 mins         ██████████████▓░░░░░░░░░░   58.15 % 
+Python       21 mins         █████████▒░░░░░░░░░░░░░░░   37.82 % 
+SQL          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 ```
 <!--END_SECTION:waka-->
