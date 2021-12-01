@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   2 mins          ██████████████▒░░░░░░░░░░   56.70 % 
-SQL      1 min           ██████████▓░░░░░░░░░░░░░░   43.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
