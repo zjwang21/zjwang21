@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   45 mins         █████████████▒░░░░░░░░░░░   53.97 % 
+YAML     12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+C++      12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Text     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+CSV      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
 <!--END_SECTION:waka-->
