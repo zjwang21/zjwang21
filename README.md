@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python           4 hrs 6 mins    ████████████████▓░░░░░░░░   66.50 % 
-Java             1 hr 37 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.39 % 
-GitIgnore file   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-YAML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-XML              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Python   3 hrs 52 mins   ███████████████░░░░░░░░░░   59.72 % 
+Java     1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+XML      29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+SQL      22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Other    20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 <!--END_SECTION:waka-->
