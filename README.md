@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python     3 hrs 25 mins   ████████████████████████░   96.28 % 
-Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-SQL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Python           4 hrs 59 mins   ███████████████████████░░   92.60 % 
+Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 <!--END_SECTION:waka-->
