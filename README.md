@@ -32,10 +32,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr            ████████████▒░░░░░░░░░░░░   49.15 % 
-Java     31 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
-TeX      12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-YAML     9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-SQL      9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Python     50 mins         ████████████████████░░░░░   80.19 % 
+TeX        12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 ```
 <!--END_SECTION:waka-->
