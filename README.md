@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python      2 hrs 25 mins   ███████████████████▓░░░░░   79.03 % 
-SquidConf   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Other       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Bash        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python      2 hrs 16 mins   ███████████████████▒░░░░░   77.88 % 
+SquidConf   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Bash        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
