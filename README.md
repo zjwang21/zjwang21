@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python      2 hrs 16 mins   ███████████████████▒░░░░░   77.88 % 
-SquidConf   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Other       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Bash        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Python           1 hr 57 mins    ████████████████████████▒   96.86 % 
+Shell Script     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
