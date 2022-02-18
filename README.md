@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 25 mins
+Total: 3 hrs 41 mins
 
-Python         1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   43.21 % 
-Bash           1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   42.77 % 
-Shell Script   19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Python         1 hr 55 mins    █████████████░░░░░░░░░░░░   52.18 % 
+Bash           1 hr 13 mins    ████████▒░░░░░░░░░░░░░░░░   33.37 % 
+Shell Script   31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 % 
 ```
 <!--END_SECTION:waka-->
