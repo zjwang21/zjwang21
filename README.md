@@ -33,12 +33,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python       9 hrs 19 mins   █████████████████▒░░░░░░░   69.31 %
-TeX          2 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
-JavaScript   51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-SQL          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python       9 hrs 7 mins    █████████████████░░░░░░░░   68.46 %
+TeX          2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
