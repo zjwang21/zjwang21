@@ -33,9 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python    3 hrs 22 mins   ███████████████▒░░░░░░░░░   61.50 %
-TeX       1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
-Other     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Python    51 mins         █████████████▓░░░░░░░░░░░   55.28 %
+Other     13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
 ```
 
 <!--END_SECTION:waka-->
