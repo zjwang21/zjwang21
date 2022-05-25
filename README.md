@@ -33,11 +33,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text     9 mins          ██████████▓░░░░░░░░░░░░░░   42.08 %
-Python   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Latte    5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-TeX      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-SQL      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+TeX   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
