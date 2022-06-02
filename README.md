@@ -33,11 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX          1 hr 21 mins    ███████████████████████░░   92.35 %
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-BibTeX       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TeX        1 hr 21 mins    ███████████████████████▓░   94.86 %
+Markdown   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+BibTeX     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
