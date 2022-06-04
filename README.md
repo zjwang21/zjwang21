@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-TeX      1 hr 7 mins     ████████████████████████▒   96.84 %
-BibTeX   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TeX        1 hr            ████████████████████████░   95.88 %
+Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
 ```
 
 <!--END_SECTION:waka-->
