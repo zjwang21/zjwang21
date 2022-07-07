@@ -33,12 +33,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-HTML         2 hrs 9 mins    ██████████████████░░░░░░░   72.47 %
-Python       37 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.75 %
-CSS          6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python   37 mins         █████████████████████████   99.66 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
