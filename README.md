@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python     1 hr 38 mins    ████████████████████████░   96.41 %
-Bash       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+Python     2 hrs 28 mins   ██████████████████████▒░░   89.34 %
+Markdown   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Bash       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
 Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
