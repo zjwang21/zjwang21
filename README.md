@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 Python     58 mins         ███████████████████▒░░░░░   76.67 %
 Markdown   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
 Bash       3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
