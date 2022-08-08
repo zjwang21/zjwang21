@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang)](https://github.com/anuraghazra/github-readme-stats)
+![github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang&show_icons=true&theme=dracular)
 
 - 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
 - 🌱 I’m currently studying **NLP**, especially NLG
@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything interesting
 - 😄 You can see me in https://nil-zhuang.github.io/
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=TeX&layout=compact&theme=dark)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark)
 
 谁终将声震人间，必长久深自缄默
-
 谁终将点燃闪电，必长久如云漂泊
 
 <!--START_SECTION:waka-->
