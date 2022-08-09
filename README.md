@@ -29,12 +29,7 @@ Here are some ideas to get you started:
 谁终将声震人间，必长久深自缄默
 谁终将点燃闪电，必长久如云漂泊
 
-<!--START_SECTION:waka-->
-
-```text
-Python       4 hrs 25 mins   ██████████████▓░░░░░░░░░░   58.95 %
-YAML         1 hr 13 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Other        51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-```
-
-<!--END_SECTION:waka-->
+<img
+  src="https://github.com/NIL-zhuang/NIL-zhuang/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
