@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 谁终将点燃闪电，必长久如云漂泊
 
 <img
-  src="https://github.com/NIL-zhuang/NIL-zhuang/blob/main/images/stat.svg"
+  src="https://github.com/NIL-zhuang/NIL-zhuang/blob/master/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
