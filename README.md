@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
 - 🌱 I’m currently studying **NLP**, especially NLG
-- 📫 How to reach me: zhuangziyuan@smail.nju.edu.cn
+- 📫 How to reach me: ziyuan.zhuang@smail.nju.edu.cn
 - ⚡ Fun fact: I LOVE Math! And Cats!!!
 - 💬 Ask me about everything interesting
 - 😄 You can see me in https://nil-zhuang.github.io/
