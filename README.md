@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang&show_icons=true&theme=dracula)
 
-![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)
+![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
 
 - 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
 - 🌱 I’m currently studying **NLP**, especially NLG
