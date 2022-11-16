@@ -1,21 +1,6 @@
 ### NIL-zhuang 👋
 
-<!--
-**NIL-zhuang/NIL-zhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang&show_icons=true&theme=dracula)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang&show_icons=true&theme=dracula) -->
 
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
 
@@ -26,7 +11,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about everything interesting
 - 😄 You can see me in https://nil-zhuang.github.io/
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark)
+<table frame=void>
+  <tbody>
+    <tr>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIL-zhuang&theme=2077"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NIL-zhuang&theme=2077&utcOffset=8" alt="worktime"></td>
+      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIL-zhuang&theme=2077" alt="top lang"></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark) -->
 
 谁终将声震人间，必长久深自缄默
 谁终将点燃闪电，必长久如云漂泊
