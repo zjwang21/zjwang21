@@ -1,15 +1,5 @@
 ### NIL-zhuang 👋
 
-<style>
-  tr, td {
-    border: none;
-  }
-  table {
-    border-collapse: none;
-    padding: 0px;
-  }
-</style>
-
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=NIL-zhuang&show_icons=true&theme=dracula) -->
 
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
