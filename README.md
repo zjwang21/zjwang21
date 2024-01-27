@@ -4,8 +4,8 @@
 
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
 
-- 🔭 I’m currently working on **Software Engineering** in [Nanjing University](https://www.nju.edu.cn/)
-- 🌱 I’m currently studying **NLP**, especially NLG
+- 🔭 I’m currently working on **NLP** and **LLM** in [Nanjing University](https://www.nju.edu.cn/)
+- 📍 Now located in MSRA Beijing
 - 📫 How to reach me: ziyuan.zhuang@smail.nju.edu.cn
 - ⚡ Fun fact: I LOVE Math! And Cats!!!
 - 💬 Ask me about everything interesting
@@ -23,8 +23,7 @@
 
 <!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark) -->
 
-谁终将声震人间，必长久深自缄默
-谁终将点燃闪电，必长久如云漂泊
+Life is tough, please be tougher...
 
 <img
   src="https://github.com/NIL-zhuang/NIL-zhuang/blob/master/images/stat.svg"
