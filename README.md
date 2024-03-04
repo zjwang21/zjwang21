@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **NLP** and **LLM** in [Nanjing University](https://www.nju.edu.cn/)
 - 📍 Now located in MSRA Beijing
-- 📫 How to reach me: ziyuan.zhuang@smail.nju.edu.cn
-- ⚡ Fun fact: I LOVE Math! And Cats!!!
+- 📫 How to reach me: zhuang-ziyuan@outlook.com
 - 💬 Ask me about everything interesting
 - 😄 You can see me in https://nil-zhuang.github.io/
 
