@@ -5,10 +5,10 @@
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
 
 - 🔭 I’m currently working on **NLP** and **LLM** in [Nanjing University](https://www.nju.edu.cn/)
-- 📍 Now located in MSRA Beijing
+- 📍 Now located in WeChat AI Shanghai
 - 📫 How to reach me: zhuang-ziyuan@outlook.com
 - 💬 Ask me about everything interesting
-- 😄 You can see me in https://nil-zhuang.github.io/
+- 😄 You can see me at https://nil-zhuang.github.io/
 
 <table frame=void>
   <tbody>
