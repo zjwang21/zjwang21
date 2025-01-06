@@ -28,5 +28,8 @@
 
 ### Published Papers
 
-- [Breaking the Representation Bottleneck of Chinese Characters: Neural Machine Translation with Stroke Sequence Modeling](https://aclanthology.org/2022.emnlp-main.434/)
-- [MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing](https://arxiv.org/abs/2408.11396)
+- **Breaking the Representation Bottleneck of Chinese Characters: Neural Machine Translation with Stroke Sequence Modeling**
+  - [Paper](https://aclanthology.org/2022.emnlp-main.434/) ｜ [Code](https://github.com/zjwang21/StrokeNet)  (EMNLP 2022)
+
+- **MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing**
+  - [Paper](https://arxiv.org/abs/2408.11396) ｜ [Code](https://github.com/NJUNLP/MoE-LPR)  (AAAI 2025)
