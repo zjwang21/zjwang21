@@ -14,7 +14,6 @@
   <tbody>
     <tr>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zjwang21&theme=2077"></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zjwang21&theme=2077&utcOffset=8" alt="worktime"></td>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zjwang21&theme=2077" alt="top lang"></td>
     </tr>
   </tbody>
