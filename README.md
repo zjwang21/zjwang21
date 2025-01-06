@@ -28,3 +28,7 @@ Life is tough, please be tougher...
   src="https://github.com/zjwang21/zjwang21/blob/master/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
+### Published Papers
+
+- [Breaking the Representation Bottleneck of Chinese Characters: Neural Machine Translation with Stroke Sequence Modeling]([https://link-to-paper-1.com](https://aclanthology.org/2022.emnlp-main.434/))
+- [MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing]([https://link-to-paper-2.com](https://arxiv.org/abs/2408.11396))
