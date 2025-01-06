@@ -14,11 +14,7 @@
   <tbody>
     <tr style="border: none;">
       <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zjwang21&theme=react"></td>
-      <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zjwang21&theme=react&utcOffset=8" alt="worktime"></td>
-    </tr>
-    <tr style="border: none;">
       <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zjwang21&theme=react" alt="top lang"></td>
-      <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zjwang21&theme=react" alt="top lang"></td>
     </tr>
   </tbody>
 </table>
