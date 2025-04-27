@@ -29,3 +29,6 @@
 
 - **MoE-LPR: Multilingual Extension of Large Language Models through Mixture-of-Experts with Language Priors Routing**
   - [Paper](https://arxiv.org/abs/2408.11396) ｜ [Code](https://github.com/NJUNLP/MoE-LPR)  (AAAI 2025)
+
+- **Investigating and Scaling up Code-Switching for Multilingual Language Model Pre-Training**
+  - [Paper](https://arxiv.org/abs/2504.01801) | [Code](https://github.com/NJUNLP/SynCS)
